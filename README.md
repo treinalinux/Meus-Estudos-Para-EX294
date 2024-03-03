@@ -16,6 +16,19 @@ Se tiver condições financeiras, então, faça o exame oficial.
 
 Acho que agora no momento o ainda estou com dificuldades de entender é usar o **navigator**. Sinceramente ainda não entendi o motivo de ter que usar isso **navigator**.
 
+## Antes de realizar qualquer coisa
+
+Você vai precisar editar playbooks o tempo todo, então é melhor usar seu editor favorito, e configurar com o mínimo.
+
+De editor eu prefiro usar o vim, o mínimo de configuração para trabalhar com arquivos yaml no vim é configurar o .vimrc:
+
+```bash
+set ai ts=2 et cursorcolumn
+```
+
+**Guarde a simples configuração  acima de cabeça.**
+
+
 ## Tópicos de estudo para o exame
 
 Como candidato do exame RHCE, você precisa saber lidar com todas as responsabilidades de um profissional com a certificação Red Hat Certified System Administrator, incluindo:
